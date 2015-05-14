@@ -30,3 +30,4 @@ LINKS = [
 ]
 
 DISQUS_SITENAME = "jpneira.net"
+SHORT_DESCRIPTION = "bla,bla"
