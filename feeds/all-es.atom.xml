@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>El blog de jp</title><link href="http://jpneira.net/" rel="alternate"></link><link href="http://jpneira.net/feeds/blog.atom.xml" rel="self"></link><id>http://jpneira.net/</id><updated>2010-10-10T22:10:00-03:00</updated><entry><title>A Full and Comprehensive Style Test</title><link href="http://jpneira.net/a-full-and-comprehensive-style-test.html" rel="alternate"></link><updated>2010-10-10T22:10:00-03:00</updated><author><name>jpneira</name></author><id>tag:jpneira.net,2010-10-10:a-full-and-comprehensive-style-test.html</id><summary type="html">&lt;p&gt;source: &lt;a class="reference external" href="https://gist.github.com/ErisDS/7e3455b70133640823c0"&gt;https://gist.github.com/ErisDS/7e3455b70133640823c0&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>El blog de jp</title><link href="http://jpneira.net/" rel="alternate"></link><link href="http://jpneira.net/feeds/all-es.atom.xml" rel="self"></link><id>http://jpneira.net/</id><updated>2010-10-10T22:10:00-03:00</updated><entry><title>A Full and Comprehensive Style Test</title><link href="http://jpneira.net/a-full-and-comprehensive-style-test.html" rel="alternate"></link><updated>2010-10-10T22:10:00-03:00</updated><author><name>jpneira</name></author><id>tag:jpneira.net,2010-10-10:a-full-and-comprehensive-style-test.html</id><summary type="html">&lt;p&gt;source: &lt;a class="reference external" href="https://gist.github.com/ErisDS/7e3455b70133640823c0"&gt;https://gist.github.com/ErisDS/7e3455b70133640823c0&lt;/a&gt;&lt;/p&gt;
 &lt;div class="section" id="heading-1"&gt;
 &lt;h2&gt;Heading 1&lt;/h2&gt;
 &lt;div class="section" id="heading-2"&gt;
@@ -126,7 +126,43 @@ deserunt quaestio ei.&lt;/p&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="lorem-ipsum"></category><category term="lorem"></category><category term="ipsum"></category></entry><entry><title>¿Cuánta tierra necesita un hombre?</title><link href="http://jpneira.net/cuanta-tierra-necesita-un-hombre.html" rel="alternate"></link><updated>1928-09-29T18:15:00-04:00</updated><author><name>Lev Nikoláievich Tolstói</name></author><id>tag:jpneira.net,1928-09-29:cuanta-tierra-necesita-un-hombre.html</id><summary type="html">&lt;div class="section" id="i"&gt;
+</summary><category term="lorem-ipsum"></category><category term="lorem"></category><category term="ipsum"></category></entry><entry><title>Dedicatoria</title><link href="http://jpneira.net/dedicatoria.html" rel="alternate"></link><updated>1980-09-10T06:15:00-04:00</updated><author><name>Francisco de Quevedo</name></author><id>tag:jpneira.net,1980-09-10:dedicatoria.html</id><summary type="html">&lt;div class="section" id="a-ninguna-persona-de-todas-cuantas-dios-crio-en-el-mundo"&gt;
+&lt;h2&gt;A NINGUNA PERSONA DE TODAS CUANTAS DIOS CRIÓ EN EL MUNDO.&lt;/h2&gt;
+&lt;blockquote class="epigraph"&gt;
+&lt;p&gt;Habiendo considerado que todos dedican sus libros con dos
+fines que pocas veces se apartan, el uno, de que la tal
+persona ayude para la impresión con su bendita limosna; el
+otro, de que ampare la obra de los murmuradores; y considerando
+(por haber sido yo murmurador muchos años) que esto no sirve
+sino de tener dos de quien murmurar, del necio que se persuade
+que hay autoridad de que los maldicientes hagan caso, y del
+presumido que paga con su dinero esta lisonja, me he determinado
+a escribille a trochimoche y a dedicalle a tontas y a locas,
+y suceda lo que sucediere, que el que le compra y murmura,
+primero hace burla de sí, que gastó mal el dinero, que del autor,
+que se le hizo gastar mal. Y digan y hagan lo que quisieren los
+mecenas, que como nunca los he visto andar a cachetes con los
+murmuradores sobre si dijo o no dijo, y los veo muy pacíficos de
+amparo, desmentidos de todas las calumnias que hacen a sus
+encomendados, sin acordarse del libro del duelo, más he querido
+atreverme que engañarme. Hagan todos lo que quisieren de mi libro,
+pues yo he dicho lo que he querido de todos. Adiós, mecenas,
+que me despido de dedicatoria.&lt;/p&gt;
+&lt;p class="attribution"&gt;&amp;mdash;&lt;a class="reference external" href="http://es.wikipedia.org/wiki/De_Quevedo"&gt;Yo.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+</summary><category term="cita"></category><category term="sueños"></category></entry><entry><title>Naissance de la biopolitique</title><link href="http://jpneira.net/naissance-de-la-biopolitique.html" rel="alternate"></link><updated>1979-01-06T15:15:00-03:00</updated><author><name>Michel Foucault</name></author><id>tag:jpneira.net,1979-01-06:naissance-de-la-biopolitique.html</id><summary type="html">&lt;p&gt;Après avoir montré comment l’économie politique, au XVIIIe siècle, marque la naissance d’une nouvelle raison gouvernementale, Michel Foucault entreprend l’analyse des formes de cette « gouvernementalité » libérale. Il s’agit de décrire la rationalité politique à l’intérieur de laquelle ont été posés les problèmes spécifiques de la vie et de la population : « Étudier le libéralisme comme cadre général de la biopolitique ».&lt;/p&gt;
+&lt;p&gt;Ce cours reprend la genèse du « pouvoir sur la vie » dans l’émergence duquel, au XVIIIe siècle, Foucault voyait une «mutation capitale, l’une des plus importantes sans doute, dans l’histoire des sociétés humaines». Pour autant, l’analyse des conditions de formation de la biopolitique, s’efface-t-elle au profit de celle de la gouvernementalité libérale. Le centre de gravité des cours se déplace-t-il de la question du biopouvoir vers celle du gouvernement, annonçant un tournant qui mènera Foucault, quelques années plus tard à la problématique du « gouvernement de soi et des autres ». &lt;a class="footnote-reference" href="#id2" id="id1"&gt;[1]&lt;/a&gt;&lt;/p&gt;
+&lt;table class="docutils footnote" frame="void" id="id2" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;&lt;a class="reference external" href="http://michel-foucault-archives.org/?Naissance-de-la-biopolitique"&gt;http://michel-foucault-archives.org/?Naissance-de-la-biopolitique&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary><category term="biopolitique"></category></entry><entry><title>Capítulo 1</title><link href="http://jpneira.net/capitulo-1.html" rel="alternate"></link><updated>1947-09-29T00:15:00-04:00</updated><author><name>Miguel de Cervantes</name></author><id>tag:jpneira.net,1947-09-29:capitulo-1.html</id><summary type="html">&lt;p&gt;En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lentejas los viernes, y algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. El resto della concluían sayo de velarte, calzas de velludo para las fiestas con sus pantuflos de lo mesmo, y los días de entre semana se honraba con su vellorí de lo más fino. Tenía en su casa un ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera. Frisaba la edad de nuestro hidalgo con los cincuenta años; era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. Quieren decir que tenía el sobrenombre de Quijada o Quesada (que en esto hay alguna diferencia en los autores que deste caso escriben), aunque por conjeturas verosímiles se deja entender que se llamaba Quijana. Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad.&lt;/p&gt;
+&lt;p&gt;Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso (que eran los más del año), se daba a leer libros de caballerías con tanta afición y gusto, que olvidó casi de todo punto el ejercicio de la caza, y aun la administración de su hacienda; y llegó a tanto su curiosidad y desatino en esto, que vendió muchas hanegas de tierra de sembradura para comprar libros de caballerías en que leer, y así, llevó a su casa todos cuantos pudo haber dellos; y de todos ningunos le parecían tan bien como los que compuso el famoso Feliciano de Silva, porque la claridad de su prosa y aquellas intricadas razones suyas le parecían de perlas, y más cuando llegaba a leer aquellos requiebros y cartas de desafíos, donde en muchas partes hallaba escrito: La razón de la sinrazón que a mi razón se hace, de tal manera mi razón enflaquece, que con razón me quejo de la vuestra fermosura. Y también cuando leía: … los altos cielos que de vuestra divinidad divinamente con las estrellas os fortifican, y os hacen merecedora del merecimiento que merece la vuestra grandeza.&lt;/p&gt;
+&lt;p&gt;Con estas razones perdía el pobre caballero el juicio, y desvelábase por entenderlas y desentrañarles el sentido, que no se lo sacara ni las entendiera el mesmo Aristóteles, si resucitara para sólo ello. No estaba muy bien con las heridas que don Belianís daba y recebía, porque se imaginaba que, por grandes maestros que le hubiesen curado, no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales. Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra como allí se promete; y sin duda alguna lo hiciera y aun saliera con ello, si otros mayores y continuos pensamientos no se lo estorbaran. Tuvo muchas veces competencia con el cura de su lugar (que era hombre docto, graduado en Sigüenza), sobre cuál había sido mejor caballero, Palmerín de Inglaterra o Amadís de Gaula; mas maese Nicolás, barbero del mesmo pueblo, decía que ninguno llegaba al Caballero del Febo, y que si alguno se le podía comparar, era don Galaor, hermano de Amadís de Gaula, porque tenía muy acomodada condición para todo, que no era caballero melindroso, ni tan llorón como su hermano, y que en lo de la valentía no le iba en zaga.&lt;/p&gt;
+</summary><category term="cita"></category><category term="Quijote"></category></entry><entry><title>¿Cuánta tierra necesita un hombre?</title><link href="http://jpneira.net/cuanta-tierra-necesita-un-hombre.html" rel="alternate"></link><updated>1928-09-29T18:15:00-04:00</updated><author><name>Lev Nikoláievich Tolstói</name></author><id>tag:jpneira.net,1928-09-29:cuanta-tierra-necesita-un-hombre.html</id><summary type="html">&lt;div class="section" id="i"&gt;
 &lt;h2&gt;I&lt;/h2&gt;
 &lt;p&gt;Una hermana mayor fue al campo a visitar a su hermana menor. La mayor
 vivía en la ciudad y estaba casada con un comerciante; la menor, mujer
@@ -633,4 +669,38 @@ reguero de sangre le corría por la boca: estaba muerto.&lt;/p&gt;
 para alojar a su amo y lo enterró. Tres &lt;em&gt;arshines&lt;/em&gt; de la cabeza a los
 pies le bastaron.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="lorem-ipsum"></category><category term="lorem"></category><category term="ipsum"></category></entry></feed>
+</summary><category term="lorem-ipsum"></category><category term="lorem"></category><category term="ipsum"></category></entry><entry><title>Does the Inertia of a Body Depend on its Energy Content?</title><link href="http://jpneira.net/does-the-inertia-of-a-body-depend-on-its-energy-content.html" rel="alternate"></link><updated>1905-09-26T00:15:00-05:17</updated><author><name>Albert Einstein</name></author><id>tag:jpneira.net,1905-09-26:does-the-inertia-of-a-body-depend-on-its-energy-content.html</id><summary type="html">&lt;ol class="upperalpha simple"&gt;
+&lt;li&gt;Einstein, Ann. Phys. &lt;strong&gt;17,&lt;/strong&gt; 639-641. &lt;strong&gt;1905&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The results of the previous investigation lead to a very interesting
+conclusion, which is here to be deduced.&lt;/p&gt;
+&lt;p&gt;I based that investigation on the Maxwell-Hertz equations for empty
+space, together with the Maxwellian expression for the electromagnetic
+energy of space, and in addition the principle that:—&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The laws by which the states of physical systems alter are independent
+of the alternative, to which of two systems of coordinates, in uniform
+motion of parallel translation relatively to each other, these alterations
+of state are referred (principle of relativity).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;With these principles &lt;a class="footnote-reference" href="#id2" id="id1"&gt;[1]&lt;/a&gt; as my basis I deduced &lt;em&gt;inter alia&lt;/em&gt; the following
+result (§ 8):—&lt;/p&gt;
+&lt;p&gt;Let a system of plane waves of light, referred to the system of co-ordinates
+The area of a circle is &lt;span class="formula"&gt;(&lt;i&gt;x&lt;/i&gt;, &lt;i&gt;y&lt;/i&gt;, &lt;i&gt;z&lt;/i&gt;)&lt;/span&gt;, possess the energy &lt;span class="formula"&gt;&lt;i&gt;l&lt;/i&gt;&lt;/span&gt;;
+let the direction of the ray (the wave-normal) make an angle &lt;span class="formula"&gt;&lt;i&gt;φ&lt;/i&gt;&lt;/span&gt;
+with the axis of &lt;span class="formula"&gt;&lt;i&gt;x&lt;/i&gt;&lt;/span&gt; of the system. If we introduce a new system of co-ordinates
+&lt;span class="formula"&gt;(&lt;i&gt;ξ&lt;/i&gt;, &lt;i&gt;η&lt;/i&gt;, &lt;i&gt;ζ&lt;/i&gt;)&lt;/span&gt; moving in uniform parallel translation with
+respect to the system &lt;span class="formula"&gt;(&lt;i&gt;x&lt;/i&gt;, &lt;i&gt;y&lt;/i&gt;, &lt;i&gt;z&lt;/i&gt;)&lt;/span&gt;, and having its origin of co-ordinates in motion
+along the axis of &lt;span class="formula"&gt;&lt;i&gt;x&lt;/i&gt;&lt;/span&gt; with the velocity &lt;span class="formula"&gt;&lt;i&gt;v&lt;/i&gt;&lt;/span&gt;, then this quantity of light —measured
+in the system &lt;span class="formula"&gt;(&lt;i&gt;ξ&lt;/i&gt;, &lt;i&gt;η&lt;/i&gt;, &lt;i&gt;ζ&lt;/i&gt;)&lt;/span&gt;— possesses the energy&lt;/p&gt;
+&lt;div class="formula"&gt;
+&lt;i&gt;l&lt;/i&gt;&lt;sup&gt;*&lt;/sup&gt; = &lt;i&gt;l&lt;/i&gt;&lt;span class="fraction"&gt;&lt;span class="ignored"&gt;(&lt;/span&gt;&lt;span class="numerator"&gt;1 − &lt;span class="fraction"&gt;&lt;span class="ignored"&gt;(&lt;/span&gt;&lt;span class="numerator"&gt;&lt;i&gt;v&lt;/i&gt;&lt;/span&gt;&lt;span class="ignored"&gt;)/(&lt;/span&gt;&lt;span class="denominator"&gt;&lt;i&gt;c&lt;/i&gt;&lt;/span&gt;&lt;span class="ignored"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;i&gt;cos&lt;/i&gt;&lt;i&gt;φ&lt;/i&gt;&lt;/span&gt;&lt;span class="ignored"&gt;)/(&lt;/span&gt;&lt;span class="denominator"&gt;&lt;span class="sqrt"&gt;&lt;span class="radical"&gt;√&lt;/span&gt;&lt;span class="ignored"&gt;(&lt;/span&gt;&lt;span class="root"&gt;1 − &lt;i&gt;v&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; ⁄ &lt;i&gt;c&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;&lt;span class="ignored"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="ignored"&gt;)&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;where &lt;span class="formula"&gt;&lt;i&gt;c&lt;/i&gt;&lt;/span&gt; denotes the velocity of light. We shall make use of this result in
+what follows.&lt;/p&gt;
+&lt;table class="docutils footnote" frame="void" id="id2" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;The principle of the constancy of the velocity of light is of course
+contained in Maxwell’s equations.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</summary><category term="paper"></category><category term="einstein"></category><category term="mass-energy equivalence"></category></entry></feed>

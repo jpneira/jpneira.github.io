@@ -1,0 +1,16 @@
+/* links */
+
+/*footer*/
+.license {
+    display: block;
+    float: left;
+    background: none !important; /* Makes sure there is never a background */
+    border: none !important; /* Makes sure there is never a border */
+}
+
+.license img {
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    width: auto}
